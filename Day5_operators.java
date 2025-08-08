@@ -45,7 +45,7 @@ public class Day5_operators {
         System.out.println(a&b);
         System.out.println(a|b);
         System.out.println(a^b);
-        System.out.println(~a);
+        System.out.println(~4);
 
     }
 }
